@@ -6,7 +6,7 @@ title: Adopt Windows behaviour on MacOS (tested on Monterey)
 This guide can help to make MacOS behave like Windows (but not completely).
 
 
-| Command<br/>__________________ | Windows<br/>___________________________ | MacOS<br/>___________________________ |
+| <div style="width:290px">Command</div> | Windows<br/>___________________________ | MacOS<br/>___________________________ |
 | --- | -------- | --- |
 | Native remap (on Windows keyboard) for: | <kbd>Ctrl</kbd> | <kbd>⌃ Control</kbd> |
 | Native remap (on Windows keyboard) for: | <kbd>Win</kbd> | <kbd>⌥ Option</kbd> |
