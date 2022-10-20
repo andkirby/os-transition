@@ -7,8 +7,16 @@ This guide can help to make MacOS behave like Windows (but not completely).
 
 
 | Command | Windows | MacOS |
-| --- | --- |
-| Cut/Copy/Paste | Ctrl+X/C/V | Cmd+X/C/V |
-| Call an app from taskbar/dock. | Win+1..0 | [Snap application](https://apps.apple.com/us/app/snap/id418073146) can add this feature. |
-| Move a window, snap to edges | Win+ARROW | [Rectangle application](https://rectangleapp.com/) can add this feature. |
-
+| --- | --- | --- |
+| Native remap (on Windows keyboard) for: | <kbd>Ctrl</kbd> | <kbd>⌃ Control</kbd> |
+| Native remap (on Windows keyboard) for: | <kbd>Win</kbd> | <kbd>⌥ Option</kbd> |
+| Native remap (on Windows keyboard) for: | <kbd>Alt</kbd> | <kbd>⌘ Command</kbd> |
+| Cut/Copy/Paste | <kbd>Ctrl</kbd> + <kbd>x</kbd> / <kbd>c</kbd> / <kbd>v</kbd> | <kbd>⌘ Command</kbd> + <kbd>x</kbd> / <kbd>c</kbd> / <kbd>v</kbd> |
+| Paste clipboard from history | <kbd>Win</kbd> + <kbd>v</kbd> | There is **no** the same ability on MacOS. <br> [CopyClip app](https://apps.apple.com/ua/app/copyclip-clipboard-history/id595191960) (or similar) may help to have access to the clipboard history. |
+| Call an app from taskbar/dock. | <kbd>Win</kbd> + <kbd>1</kbd> / <kbd>2</kbd> ... <kbd>0</kbd> | [Snap application](https://apps.apple.com/us/app/snap/id418073146) can add this feature. |
+| Move a window, snap to edges | <kbd>Win</kbd> + <kbd>↑</kbd> / <kbd>↓</kbd> / <kbd>←</kbd> / <kbd>→</kbd> | [Rectangle application](https://rectangleapp.com/) can add this feature. <br /><kbd>⌥ Option</kbd> + <kbd>⌃ Control</kbd> + <kbd>↑</kbd> / <kbd>↓</kbd> / <kbd>←</kbd> / <kbd>→</kbd> and more. |
+| Move coursor to the beginning/end of the line | <kbd>Home</kbd> / <kbd>End</kbd> | <kbd>⌘ Command</kbd> +  <kbd>←</kbd> / <kbd>→</kbd> <br> [Karabiner-Elements](https://karabiner-elements.pqrs.org/) may help to remap these keys. |
+| Move cursor to the beginning/end of the line | <kbd>Home</kbd> / <kbd>End</kbd> | <kbd>⌘ Command</kbd> +  <kbd>←</kbd> / <kbd>→</kbd> <br> [Karabiner-Elements](https://karabiner-elements.pqrs.org/) may help to remap these keys. |
+| Move cursor to the next/previous word | <kbd>Ctrl</kbd> + <kbd>←</kbd> / <kbd>→</kbd> | <kbd>⌥ Option</kbd> +  <kbd>←</kbd> / <kbd>→</kbd> |
+| Minimize a window | <kbd>Win</kbd> + <kbd>↓</kbd> | <kbd>⌘ Command</kbd> + <kbd>M</kbd> |
+| Restore after minimize | <kbd>Win</kbd> + <kbd>↓</kbd> | [Native approach](https://apple.stackexchange.com/questions/55432/keyboard-shortcut-for-restoring-applications-from-the-mac-os-x-dock) <br> But it can be easily disabled into a windows-way, just enable configuration `System Preferences → Dock & menu bar → Minimize windows into application icon`. |
