@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Adopt Windows behaviour on MacOS (Monterey)
+title: Adopt Windows behaviour on MacOS (tested on Monterey)
 ---
 
 This guide can help to make MacOS behave like Windows (but not completely).
 
 
-| Command | Windows | MacOS |
+| Command<br/>_________ | Windows<br/>_________ | MacOS<br/>_________ |
 | --- | -------- | --- |
 | Native remap (on Windows keyboard) for: | <kbd>Ctrl</kbd> | <kbd>⌃ Control</kbd> |
 | Native remap (on Windows keyboard) for: | <kbd>Win</kbd> | <kbd>⌥ Option</kbd> |
