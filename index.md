@@ -7,7 +7,7 @@ This guide can help to make MacOS behave like Windows (but not completely).
 
 
 | Command | Windows | MacOS |
-| --- | --- | --- |
+| --- | -------- | --- |
 | Native remap (on Windows keyboard) for: | <kbd>Ctrl</kbd> | <kbd>⌃ Control</kbd> |
 | Native remap (on Windows keyboard) for: | <kbd>Win</kbd> | <kbd>⌥ Option</kbd> |
 | Native remap (on Windows keyboard) for: | <kbd>Alt</kbd> | <kbd>⌘ Command</kbd> |
