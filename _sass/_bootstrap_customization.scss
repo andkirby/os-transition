@@ -99,6 +99,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
   &-primary {
     &, > th, > td {
       background-color: $primary;
+      padding: 5px;
     }
   }
 
